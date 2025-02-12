@@ -1,0 +1,11 @@
+pipeline {
+  any agent 
+  stages {
+    stage("build){
+          echo  "nilesh"
+          steps{
+          }
+        }
+          }
+          }
+          
